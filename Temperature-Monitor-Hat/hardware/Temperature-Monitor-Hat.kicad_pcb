@@ -75,7 +75,7 @@
     (aux_axis_origin 0 0)
     (visible_elements FFFEDF7D)
     (pcbplotparams
-      (layerselection 0x20010_00000000)
+      (layerselection 0x210fc_80000001)
       (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -496,7 +496,7 @@
   (gr_text wickerbox.net (at 100.5078 94.615 90) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "Temperature Monitor Teensy Hat \n7/30/2016" (at 149.3012 99.9236) (layer B.SilkS)
+  (gr_text "Temperature Monitor Teensy Hat  v1.0\n7/30/2016" (at 149.3012 99.9236) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text 1 (at 172.72 79.8576) (layer F.SilkS) (tstamp 579D8C23)
