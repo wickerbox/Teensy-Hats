@@ -2,10 +2,10 @@
 
   (general
     (links 24)
-    (no_connects 6)
-    (area 117.780999 74.092999 155.015001 92.277001)
+    (no_connects 0)
+    (area 113.455999 70.382 164.033001 95.434)
     (thickness 1.6)
-    (drawings 9)
+    (drawings 11)
     (tracks 71)
     (zones 0)
     (modules 7)
@@ -73,7 +73,7 @@
     (aux_axis_origin 0 0)
     (visible_elements FFFEDF7D)
     (pcbplotparams
-      (layerselection 0x3d0fc_80000001)
+      (layerselection 0x30000_00000000)
       (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -409,6 +409,10 @@
     (fp_text value LED-4x7-SEGMENT-LTC-4727JR (at -0.186 -0.394 360) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
+    (fp_line (start 7.75 -20.75) (end 7.75 19.5) (layer B.Fab) (width 0.2))
+    (fp_line (start -6.25 -20.75) (end 7.75 -20.75) (layer B.Fab) (width 0.2))
+    (fp_line (start -6.25 19.5) (end -6.25 -20.75) (layer B.Fab) (width 0.2))
+    (fp_line (start 7.75 19.5) (end -6.25 19.5) (layer B.Fab) (width 0.2))
     (fp_line (start -6.25 19.5) (end 7.75 19.5) (layer B.SilkS) (width 0.2))
     (fp_line (start 7.75 -20.75) (end -6.25 -20.75) (layer B.SilkS) (width 0.2))
     (fp_line (start -6.25 19.5) (end -6.25 -20.75) (layer B.SilkS) (width 0.2))
@@ -457,6 +461,12 @@
       (net 19 /B))
   )
 
+  (gr_text 8/23/2016 (at 124.46 94.234) (layer F.Fab)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "Quad 7-Segment Display Teensy Hat v1.0" (at 137.922 71.882) (layer F.Fab)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_line (start 119.634 85.344) (end 117.856 85.344) (layer F.SilkS) (width 0.2))
   (gr_line (start 119.634 80.772) (end 119.634 85.344) (layer F.SilkS) (width 0.2))
   (gr_line (start 117.856 80.772) (end 119.634 80.772) (layer F.SilkS) (width 0.2))
