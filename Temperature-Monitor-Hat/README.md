@@ -16,6 +16,12 @@ Simple monitor hat with an LCD screen that displays current temperature as sense
 |R1|1|TRIMMER 10K OHM TH|Bourns|3362U-1-103LF|Digikey|3362U-103LF-ND|
 |SPK1|1|BUZZER ONE NOTE 3V 4KHZ PIEZO SMT|CUI Inc|CMT-1603-SMT-TR|Digikey|102-1193-1-ND|
 
-<img src="assembly.png">
+<img src="inuse.png">
 
-<img src="demo.png">
+<img src="closeup.png">
+
+<img src="backview.png">
+
+<img src="sideview.png">
+
+

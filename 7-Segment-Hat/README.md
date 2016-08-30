@@ -2,6 +2,10 @@
 
 7-Segment display daughter board for the Teensy 3.2.
 
+<img src="assembled.png">
+
+<img src="counting.png">
+
 <img src="oshpreview.png">
 
 <img src="schematic.png">
