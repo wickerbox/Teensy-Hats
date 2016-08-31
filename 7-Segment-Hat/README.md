@@ -1,6 +1,6 @@
 # 7-Segment Display Teensy Hat
 
-7-Segment display daughter board for the Teensy 3.2.
+7-Segment display daughter board for the Teensy 3.2 with onboard microSD card.
 
 <img src="assembled.png">
 
