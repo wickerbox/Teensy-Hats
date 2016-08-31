@@ -2,7 +2,7 @@
 
 LiDAR board with LCD screen and SD card for logging. 
 
-<img src="frontview.png">
+<img src="frontview-rot.png">
 
 The project is released as open hardware under the CERN v1.2 Open Hardware license.
 
